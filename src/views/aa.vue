@@ -10,7 +10,9 @@ export default {
   data() {
     return {
       ss: '保持善良',
-      aa: 1
+      aa: 1,
+      aaf:78,
+      nav: true
     }
   },
   methods: {
