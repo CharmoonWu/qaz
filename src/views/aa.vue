@@ -9,7 +9,13 @@ export default {
   name: 'aa',
   data() {
     return {
-      ss: '保持善良'
+      ss: '保持善良',
+      aa: 1
+    }
+  },
+  methods: {
+    sum(){
+      this.aa++;
     }
   },
 
