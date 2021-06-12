@@ -6,7 +6,12 @@
 
 <script>
 export default {
-  name: 'aa'
+  name: 'aa',
+  data() {
+    return {
+      ss: '保持善良'
+    }
+  },
 
 }
 </script>
