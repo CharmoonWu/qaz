@@ -41,6 +41,7 @@ export default defineComponent({
     watch(result, () => {
       if (result.value) {
         console.log(result.value[0].id);
+        console.log(result.value[0].id);
 
       }
 
