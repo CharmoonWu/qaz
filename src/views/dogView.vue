@@ -29,6 +29,7 @@ export default defineComponent({
     const refO = ref<HTMLElement | null>(null)
     onMounted(() => {
       console.log(refO.value?.innerHTML);
+      console.log(refO.value?.innerHTML);
     })
 
     // const { loading, loaded, result } = useUrlLoader<DogResult>()
