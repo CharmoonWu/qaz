@@ -12,7 +12,8 @@ export default {
       ss: '保持善良',
       aa: 1,
       aaf:78,
-      nav: true
+      nav: true,
+      isnav: true
     }
   },
   methods: {
