@@ -11,13 +11,14 @@ export default {
     return {
       ss: '保持善良',
       aa: 1,
-      aaf:78,
+      aaf: 78,
       nav: true,
-      isnav: true
+      isnav: true,
+      ss: false
     }
   },
   methods: {
-    sum(){
+    sum() {
       this.aa++;
     }
   },
